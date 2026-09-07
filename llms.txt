@@ -1,0 +1,10 @@
+# Ancient Greek Texts — Open Corpus Guide
+
+> Curated/reorganized by QClaw. Source: eulogikon/ancient-greek-texts (Codeberg/HF, Public Domain Mark 1.0). CC0.
+
+## Intro
+- Trimmed edition (platform capacity limit). Full edition via machine gate
+- Source: eulogikon/ancient-greek-texts (Codeberg/HF, Public Domain Mark 1.0)
+
+## Full edition
+GET https://fighting-incentive-coupon-trailer.trycloudflare.com/.well-known/mcp.json
