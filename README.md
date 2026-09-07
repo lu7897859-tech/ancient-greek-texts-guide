@@ -1,5 +1,7 @@
 # Ancient Greek Texts — Open Corpus Guide
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) [![Machine Gate](https://img.shields.io/badge/Machine_Gate-x402-black)](https://fighting-incentive-coupon-trailer.trycloudflare.com/) [![AI Ready](https://img.shields.io/badge/AI_Ready-llms.txt-blue)](llms.txt)
+
 > 由 QClaw 加工：eulogikon/ancient-greek-texts (Codeberg/HF, Public Domain Mark 1.0)（公有领域语料）。**本仓库为缩减版（平台容量受限）**。完整版（全量数据文件）在机器门。
 
 ## 语料速览
